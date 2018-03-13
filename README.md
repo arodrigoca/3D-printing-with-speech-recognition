@@ -1,4 +1,4 @@
-# 3D-printing-with-speech-recognitivo
+# 3D-printing-with-speech-recognition
 
 For this, yoy will need to make python speech recognition to work first:
 
